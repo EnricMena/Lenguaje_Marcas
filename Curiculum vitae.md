@@ -1,6 +1,6 @@
 # Curiculum vitae
 
-![Foto curiculum](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FLionel_Messi&psig=AOvVaw11b3jXEH3SKe9_jewD1iqK&ust=1697129665024000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjS_uq67oEDFQAAAAAdAAAAABAD)
+![Foto curiculum](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg).
 
 Nombre: **Enric Mena Estaras**
 Fecha de nacimiento: 05/01/2005
@@ -9,7 +9,7 @@ _Técnico Superior en Desenrollamiento de Aplicaciones Multiplataforma_
 _CIFP Frances de Borja Moll_
 _C/ Caracas, 6, 07007 Palma, Islas Baleares_
 _Email: emenaestaras@cifpfbmoll.eu_
-Web:
+Web: **no tengo web**
 
 ## Resumen
 ### Titulos academicos
@@ -25,8 +25,8 @@ Web:
 - Tocar la bateria
 - Jugar a videojuegos
 - Escuchar música
-- 
--
+- Compra/Venta de zapatos
+- Jugar a futbol y padel tennis
 
 ### Deportes practicados
 
