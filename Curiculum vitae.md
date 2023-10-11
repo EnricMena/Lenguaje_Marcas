@@ -57,9 +57,9 @@ Viajes ERASMUS efectuados durante los cursos académicos (2005-2023)
 
 | **País** | **Ciudad** | **Tiempo** | **Nº Alumnos** | 
 | ------ | ------ | ------ | ------ |
-| Francia |  | 14 días | 10 |
-| Holanda |  | 7 días | 7 |
-| Dinamarca |  | 21 días | 3 |
+| Francia | Paris | 14 días | 10 |
+| Holanda | Amsterdam | 7 días | 7 |
+| Dinamarca | Copenhaguen | 21 días | 3 |
 | Italia | Parma | 14 días | 11 |
 
 ## Aportaciones a la algorítmica
