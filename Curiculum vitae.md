@@ -2,13 +2,13 @@
 
 ![Foto curiculum](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg).
 
-Nombre: **Enric Mena Estaras**
-Fecha de nacimiento: 05/01/2005
-Direción:
-_Técnico Superior en Desenrollamiento de Aplicaciones Multiplataforma_
-_CIFP Frances de Borja Moll_
-_C/ Caracas, 6, 07007 Palma, Islas Baleares_
-_Email: emenaestaras@cifpfbmoll.eu_
+Nombre: **Enric Mena Estaras**    
+Fecha de nacimiento: 05/01/2005    
+Direción:    
+_Técnico Superior en Desenrollamiento de Aplicaciones Multiplataforma_   
+_CIFP Frances de Borja Moll_   
+_C/ Caracas, 6, 07007 Palma, Islas Baleares_   
+_Email: emenaestaras@cifpfbmoll.eu_   
 Web: **no tengo web**
 
 ## Resumen
