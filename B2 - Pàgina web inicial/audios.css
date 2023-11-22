@@ -1,0 +1,58 @@
+body { /* Estilos para el elemento body */
+    background-color: rgb(94, 107, 207); /* Establece el color de fondo de la página a rgb(94, 107, 207) */
+    font-family: sans-serif; /* Establece la fuente de letra para todo el texto a sans-serif */
+    font-size: 16px; /* Establece el tamaño de fuente para todo el texto a 16px */
+}
+
+header { /* Estilos para el elemento header */
+    background-color: #6bc9eb; /* Establece el color de fondo del header a #6bc9eb */
+    color: black; /* Establece el color del texto del header a negro */
+    padding: 20px; /* Agrega 20px de espacio interior al header */
+    display: flex; /* Muestra el contenido del header como una fila flexible */
+    text-align: center; /* Alinea el texto del header al centro */
+    justify-content: center; /* Centra el contenido del header horizontalmente */
+}
+
+h1 { /* Estilos para los títulos h1 */
+    font-size: 32px; /* Establece el tamaño de fuente de los títulos h1 a 32px */
+    margin-top: 50px; /* Agrega un margen superior de 50px a los títulos h1 */
+}
+
+ul { /* Estilos para las listas ul */
+    float: right; /* Hace que las listas ul floten a la derecha */
+    margin-left: 100px; /* Agrega un margen izquierdo de 100px a las listas ul */
+    margin-top: 50px; /* Agrega un margen superior de 50px a las listas ul */
+    color: white; /* Establece el color del texto de las listas ul a blanco */
+}
+
+a { /* Estilos para los enlaces */
+    color: #000; /* Establece el color del texto de los enlaces a negro */
+    text-decoration: none; /* Elimina el subrayado de los enlaces */
+}
+
+a:hover { /* Efecto hover para los enlaces */
+    color: rgb(255, 255, 255); /* Cambia el color del texto de los enlaces al blanco cuando se pasa el cursor sobre ellos */
+}
+
+audio { /* Estilos para los elementos de audio */
+    margin-top: 20px; /* Agrega un margen superior de 20px a los elementos de audio */
+    margin-left: 20px; /* Agrega un margen izquierdo de 20px a los elementos de audio */
+    width: 50%; /* Establece el ancho de los elementos de audio al 50% */
+    margin-bottom: 20px; /* Agrega un margen inferior de 20px a los elementos de audio */
+}
+
+  audio controls { /* Estilos para los controles de los elementos de audio */
+    display: block; /* Convierte los controles de los elementos de audio en elementos de bloque */
+    width: 100%; /* Establece el ancho de los controles de los elementos de audio al 100% */
+    height: 30px; /* Establece la altura de los controles de los elementos de audio a 30px */
+}
+
+footer { /* Estilos para el elemento footer */
+    background-color: #ccc; /* Establece el color de fondo del footer a #ccc */
+    padding: 20px; /* Agrega 20px de espacio interior al footer */
+    text-align: center; /* Alinea el texto del footer al centro */
+}
+
+#num_telefono { /* Estilos para el elemento con el id "num_telefono" */
+    text-decoration: underline; /* Subraya el texto del elemento con el id "num_telefono" */
+}
